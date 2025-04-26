@@ -98,4 +98,4 @@ Django Admin Page
 
 Download Source Code: [Click Here](https://github.com/dori-dev/django-todo-react/archive/refs/heads/master.zip)
 
-My Github Account: [Click Here](https://github.com/dori-dev/)
+My Github Account: [Click Here](https://github.com/harsh12garg/)
